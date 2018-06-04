@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Style.qml</file>
+        <file>qmldir</file>
+        <file>CupStatsList.qml</file>
+        <file>CurrentCupPage.qml</file>
+        <file>main.qml</file>
+        <file>icons/resetBtn.png</file>
+        <file>icons/bluetooth.png</file>
+        <file>BluetoothPage.qml</file>
+    </qresource>
+</RCC>
