@@ -1,7 +1,4 @@
 # CoffeeWarmerApp
-Application to control bluetooth coffee warmer from phone
+Designed and Built to compliment my Term 5 jr. elecrical design project.
 
-Done to compliment my Term 5 jr. elecrical design project
-The Bluethooth connection does not work correctly, however the rest of the app is complete
-
-Ended work on it in March, 2018
+Application to control bluetooth coffee warmer from Android phone. Allows for setting accurate temperature profiles, while also collecting lifetime stats on all cups of coffee.
